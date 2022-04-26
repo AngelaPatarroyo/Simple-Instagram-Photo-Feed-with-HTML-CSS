@@ -1,0 +1,52 @@
+body{
+    background-color: grey;
+    margin: 0;
+}
+header{
+    background: white;
+    padding: 10px;
+}
+header h1{
+    margin: 0;
+}
+
+div.container{
+    background: gray;
+    width:60%;
+    margin: auto;
+}
+.titulo{
+    background: white;
+    width:60%;
+    margin: auto;
+}
+img{
+    width: 100%;
+}
+h2, p{
+    padding: 5px;
+}
+.encabezado{
+   display: flex;
+   width: 100%;
+   
+}
+.nombre{
+    width: 80%;
+    padding-left: 30px;
+}
+.fecha{
+    width: 20%;
+    text-align: right;
+    padding-top: 30px;
+    padding-right: 30px;
+    color: gray;
+}
+.post{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    background: white;
+}
+.pie p{
+    font-size:larger;
+}
