@@ -1,5 +1,5 @@
 body{
-    background-color: grey;
+    background-color: rgb(218, 216, 216);
     margin: 0;
 }
 header{
@@ -10,14 +10,14 @@ header h1{
     margin: 0;
 }
 
-div.container{
-    background: gray;
-    width:60%;
+.container{
+    background: rgb(218, 216, 216);
+    width:750px;
     margin: auto;
 }
 .titulo{
     background: white;
-    width:60%;
+    width:750px;
     margin: auto;
 }
 img{
